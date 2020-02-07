@@ -38,7 +38,7 @@ color: var(--navbar-font-color);
     color: var(--navbar-font-color);
   }
 
-  /* .navbar-end > a.navbar-item:hover,*/
+  /* .navbar-end > a.navbar-item:hover, */
   .navbar-end .navbar-link:hover {
     background: var(--navbar_hover-background);
     color: var(--navbar-font-color);
