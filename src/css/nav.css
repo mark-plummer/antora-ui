@@ -262,8 +262,6 @@ html.is-clipped--nav {
   font-weight: var(--body-font-weight-bold);
 }
 
-/*
 .nav-panel-explore .component .is-latest a::after {
   content: " (latest)";
 }
-*/
